@@ -1,0 +1,24 @@
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.xml
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Resources.resources
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.xml
+C:\Users\Jakub\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\bin\Debug\WebBrowser.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.AssemblyReference.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Resources.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.GenerateResource.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.CoreCompileInputs.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 2\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb

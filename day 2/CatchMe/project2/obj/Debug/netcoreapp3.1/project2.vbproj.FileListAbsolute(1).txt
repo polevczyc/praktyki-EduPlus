@@ -1,0 +1,15 @@
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.vbproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.Form1.resources
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.vbproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.AssemblyInfo.vb
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.vbproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.exe
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.deps.json
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.runtimeconfig.json
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.runtimeconfig.dev.json
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.dll
+C:\Users\Jakub\source\repos\project2\project2\bin\Debug\netcoreapp3.1\project2.pdb
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.dll
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.pdb
+C:\Users\Jakub\source\repos\project2\project2\obj\Debug\netcoreapp3.1\project2.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\bin\Debug\Goal Saver.exe.config
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\bin\Debug\Goal Saver.exe
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\bin\Debug\Goal Saver.pdb
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\bin\Debug\Goal Saver.xml
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.vbproj.AssemblyReference.cache
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal_Saver.Form1.resources
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal_Saver.Resources.resources
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.vbproj.GenerateResource.cache
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.vbproj.CoreCompileInputs.cache
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.exe
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.xml
+C:\Users\kubak\source\repos\Goal Saver\Goal Saver\obj\Debug\Goal Saver.pdb
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.exe.config
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.exe
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.pdb
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.xml
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.AssemblyReference.cache
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal_Saver.Form1.resources
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal_Saver.Resources.resources
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.GenerateResource.cache
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.CoreCompileInputs.cache
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.exe
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.xml
+C:\Users\kubak\Documents\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.pdb
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.exe.config
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.exe
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.pdb
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\bin\Debug\Goal Saver.xml
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.AssemblyReference.cache
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal_Saver.Form1.resources
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal_Saver.Resources.resources
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.GenerateResource.cache
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.vbproj.CoreCompileInputs.cache
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.exe
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.xml
+D:\Documents\praktyki Erasmus\day 6\Goal Saver\obj\Debug\Goal Saver.pdb

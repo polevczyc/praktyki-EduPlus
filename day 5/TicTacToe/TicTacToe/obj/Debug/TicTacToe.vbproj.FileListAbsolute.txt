@@ -1,0 +1,24 @@
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.xml
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.AssemblyReference.cache
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Resources.resources
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.GenerateResource.cache
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.CoreCompileInputs.cache
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.xml
+C:\Users\kubak\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.AssemblyReference.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Resources.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.GenerateResource.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.CoreCompileInputs.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

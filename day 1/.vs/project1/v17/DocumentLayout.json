@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\szkola\\zschie\\praktyki Erasmus\\day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098AF7E0-D6E4-442F-99E0-886C3E603B62}|project1\\project1.vbproj|d:\\documents\\szkola\\zschie\\praktyki erasmus\\day 1\\project1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{098AF7E0-D6E4-442F-99E0-886C3E603B62}|project1\\project1.vbproj|solutionrelative:project1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098AF7E0-D6E4-442F-99E0-886C3E603B62}|project1\\project1.vbproj|d:\\documents\\szkola\\zschie\\praktyki erasmus\\day 1\\project1\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{098AF7E0-D6E4-442F-99E0-886C3E603B62}|project1\\project1.vbproj|solutionrelative:project1\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Documents\\szkola\\zschie\\praktyki Erasmus\\day 1\\project1\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "project1\\Form1.Designer.vb",
+              "ToolTip": "D:\\Documents\\szkola\\zschie\\praktyki Erasmus\\day 1\\project1\\Form1.Designer.vb",
+              "RelativeToolTip": "project1\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T14:28:25.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "D:\\Documents\\szkola\\zschie\\praktyki Erasmus\\day 1\\project1\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "project1\\Form2.Designer.vb",
+              "ToolTip": "D:\\Documents\\szkola\\zschie\\praktyki Erasmus\\day 1\\project1\\Form2.Designer.vb",
+              "RelativeToolTip": "project1\\Form2.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T14:28:27.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

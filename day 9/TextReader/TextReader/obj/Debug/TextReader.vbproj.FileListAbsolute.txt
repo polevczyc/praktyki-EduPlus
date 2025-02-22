@@ -1,0 +1,24 @@
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.vbproj.AssemblyReference.cache
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.Form1.resources
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.Resources.resources
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.vbproj.GenerateResource.cache
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.vbproj.CoreCompileInputs.cache
+C:\Users\kubak\source\repos\TextReader\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\kubak\source\repos\TextReader\TextReader\bin\Debug\TextReader.exe
+C:\Users\kubak\source\repos\TextReader\TextReader\bin\Debug\TextReader.pdb
+C:\Users\kubak\source\repos\TextReader\TextReader\bin\Debug\TextReader.xml
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.exe
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.xml
+C:\Users\kubak\source\repos\TextReader\TextReader\obj\Debug\TextReader.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\bin\Debug\TextReader.exe.config
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\bin\Debug\TextReader.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\bin\Debug\TextReader.pdb
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\bin\Debug\TextReader.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.vbproj.AssemblyReference.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.Form1.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.Resources.resources
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.vbproj.GenerateResource.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.vbproj.CoreCompileInputs.cache
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.exe
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.xml
+D:\Documents\szkola\zschie\praktyki Erasmus\day 9\TextReader\TextReader\obj\Debug\TextReader.pdb
